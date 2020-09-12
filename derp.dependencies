@@ -1,0 +1,14 @@
+[
+  {
+    "repository": "kernel_xiaomi_violet",
+    "target_path": "kernel/xiaomi/violet",
+    "branch":"11",
+    "remote":"devices"
+  },
+  {
+    "repository": "dasshubham762/vendor_xiaomi_violet",
+    "target_path": "vendor/xiaomi/violet",
+    "branch":"eleven",
+    "remote":"gitlab"
+  }
+]
